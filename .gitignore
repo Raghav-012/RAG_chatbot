@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+.Python
+myenv/
+myenv311/
+venv/
+env/
+.env
+.streamlit/secrets.toml
+*.pdf
+uploads/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.streamlit/cache/

@@ -1,0 +1,25 @@
+streamlit
+python-dotenv
+requests
+
+# LangChain / LangGraph core
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# LLM + embeddings + tools
+langchain-groq
+langchain-huggingface
+langchain-tavily
+sentence-transformers
+
+# Vector store
+faiss-cpu
+
+# PDF loading
+pypdf
+
+# MCP integration
+langchain-mcp-adapters
+mcp
